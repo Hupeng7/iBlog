@@ -87,11 +87,14 @@ featured-condition-size: 0    # A tag will be featured if the size of it is more
 ## Friends
 friends: [
     {
-        title: "zhangsan",
-        href: "https://zhangsan.life/"
+        title: "王老板aixiaodianying",
+        href: "https://www.bilibili.com/"
     },{
         title: "wukong",
-        href: "http://wukong.com"
+        href: "http://www.baidu.com"
+    },{
+        title: "tuhao",
+        href: "http://www.taobao.com"
     },{
         title: "Hexo",
         href: "https://hexo.io/"
